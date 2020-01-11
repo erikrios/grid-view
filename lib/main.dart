@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
     'langit',
     'laut',
     'matahari',
-    'noagara'
+    'niagara'
   ];
 
   @override
